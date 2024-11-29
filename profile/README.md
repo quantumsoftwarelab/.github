@@ -1,12 +1,13 @@
-## Hi there 👋
+## Welcome to the Quantum Software Lab's software
 
-<!--
+Based at the University of Edinburgh, we are the UK's leading researcb group in Quantum Information and Computing research.
 
-**Here are some ideas to get you started:**
+Our main research areas fall broadly under seven categories:
+* Quantum Algorithms and Machine Learning
+* Quantum Error Correction
+* Programming and Implementation
+* Noise Handling
+* Architecture and HPC Integration
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Visit [our website](https://www.quantumsoftwarelab.com/) for more information about our team and our work.
+
