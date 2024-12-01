@@ -1,4 +1,4 @@
-## Welcome to the Quantum Software Lab's software
+## Welcome to QSL's software
 
 Based at the University of Edinburgh, we are the UK's leading researcb group in Quantum Information and Computing research.
 
