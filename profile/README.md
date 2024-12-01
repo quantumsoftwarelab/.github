@@ -5,7 +5,7 @@ Based at the University of Edinburgh, we are one of the UK's leading research gr
 Our main research areas fall broadly under these categories:
 * Quantum Algorithms
 * Quantum Machine Learning 
-* Quantum Error Correction and Fault-Tolerant Computation
+* Quantum Error Correction
 * Quantum Simulators and quantum-integrated HPC
 * Quantum Cryptography and related protocols
 * Quantum Algorithms for physics and chemistry simulations
